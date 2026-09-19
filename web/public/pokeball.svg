@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Poke Ball">
+  <!-- Filled shapes only, no strokes: some SVG rasterisers drop stroke-only
+       circles, and this file is also the source for the PNG share image. -->
+  <circle cx="256" cy="256" r="248" fill="#17181c"/>
+  <circle cx="256" cy="256" r="228" fill="#f7f7f7"/>
+  <path d="M28 256a228 228 0 0 1 456 0z" fill="#ee1c25"/>
+  <rect x="28" y="236" width="456" height="40" fill="#17181c"/>
+  <circle cx="256" cy="256" r="82" fill="#17181c"/>
+  <circle cx="256" cy="256" r="60" fill="#f7f7f7"/>
+  <circle cx="256" cy="256" r="40" fill="#17181c"/>
+  <circle cx="256" cy="256" r="29" fill="#ffffff"/>
+</svg>
